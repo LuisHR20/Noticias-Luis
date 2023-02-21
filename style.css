@@ -293,6 +293,7 @@ hr {
         opacity: .9;
         transform: translateX(-400px);
         transition: transform .5s ease-in-out;
+        z-index: 4
     }
 
     .nav-main ul.nav-menu.show {
